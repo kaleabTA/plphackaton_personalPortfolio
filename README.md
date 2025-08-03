@@ -29,13 +29,13 @@ I’m Kaleab Tadesse, a tech enthusiast from Ethiopia and a Computer Science gra
 - `Kaleab Tadesse (3).pdf` – Downloadable CV
 - External Libraries:
   - [Boxicons](https://boxicons.com/) – for iconography
-  - Google Fonts or custom styles (optional)
+  - Google Fonts 
 
 ## 📸 Featured Projects(this projects are just for example purposes they are not real projects)
 
-- **Graphic Design Portfolio** – A collection of creative branding, logos, and posters
-- **Weather App** – Real-time weather info using the OpenWeatherMap API
-- **Portfolio Website** – This very website, showcasing my development and design skills
+- Graphic Design Portfolio – A collection of creative branding, logos, and posters
+- Weather App – Real-time weather info using the OpenWeatherMap API
+- Portfolio Website– This very website, showcasing my development and design skills
 
 ## 📬 Contact Me
 
