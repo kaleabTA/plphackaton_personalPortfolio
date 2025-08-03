@@ -394,3 +394,34 @@ a{
   transform: translateY(-3px);
 }
 
+.footer {
+  background-color: #082032;
+  color: #ffffff;
+  padding: 40px 20px;
+  text-align: center;
+  margin-top: 60px;
+}
+
+.footer-content h3 {
+  margin: 0;
+  font-size: 1.8rem;
+  color: #ff4c29;
+}
+
+.footer-content p {
+  margin: 10px 0 20px;
+  color: #cccccc;
+  font-size: 1rem;
+}
+
+.social-links a {
+  margin: 0 10px;
+  font-size: 1.8rem;
+  color: #ffffff;
+  transition: color 0.3s ease, transform 0.2s ease;
+}
+
+.social-links a:hover {
+  color: #ff4c29;
+  transform: translateY(-4px);
+}
