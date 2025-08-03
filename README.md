@@ -1,3 +1,4 @@
+
 # Kaleab Tadesse – Personal Portfolio Website 🌍💻🎨
 
 Welcome to my personal portfolio website! This project is a showcase of my work, skills, and background as a **front-end developer**, **Python programmer**, and **graphic designer**.
@@ -50,3 +51,7 @@ If you're interested in collaborating, have an idea, or just want to say hi, fee
 1. Clone the repo:
    ```bash
    git clone https://github.com/kaleabTA/portfolio-site.git
+=======
+# plphackaton_personalPortfolio
+a personal portfolio website only using html and css for PLP acafamy hackaton
+>>>>>>> 497df65c7a5fa682f411b755955e93395ba9f995
